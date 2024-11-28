@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/frontendBasicsLab7/static/css/main.181f2cda.css",
+    "main.js": "/frontendBasicsLab7/static/js/main.9fd01ba3.js",
+    "static/media/kiwi.jpg": "/frontendBasicsLab7/static/media/kiwi.39006fd6fa5dc6a62a2c.jpg",
+    "static/media/cherry.jpg": "/frontendBasicsLab7/static/media/cherry.cc3d3a6a69464cee40f8.jpg",
+    "static/media/image.png": "/frontendBasicsLab7/static/media/image.de2128ef7601ca2bd96f.png",
+    "static/media/pineapple.jpg": "/frontendBasicsLab7/static/media/pineapple.276d159566153c398bc4.jpg",
+    "index.html": "/frontendBasicsLab7/index.html",
+    "main.181f2cda.css.map": "/frontendBasicsLab7/static/css/main.181f2cda.css.map",
+    "main.9fd01ba3.js.map": "/frontendBasicsLab7/static/js/main.9fd01ba3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.181f2cda.css",
+    "static/js/main.9fd01ba3.js"
+  ]
+}
